@@ -104,7 +104,6 @@ function spotifyThisSong() {
             console.log(err);
         });
 
-
 }
 
 function doWhatItSays() {
